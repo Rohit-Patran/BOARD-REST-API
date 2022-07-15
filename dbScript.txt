@@ -1,5 +1,5 @@
 Database Used : MongoDB
 
-To create Database 1: use boardDB
+To create Database: use boardDB
 To create collection 1: db.createCollection("boards")
 To create collection 2: db.createCollection("counters")
